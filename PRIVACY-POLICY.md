@@ -8,4 +8,14 @@
 
 ## Osobní data
 Aplikace ukládá tato osobní data:
-* 
+* Jméno
+* Příjmení
+* Zobrazované jméno
+* Avatar
+* Veřejné sportovní aktivity uživatele z aplikace Strava a jejich detaily (jako např. typ aktivity, vzdálenost, čas, provedené změny nebo smazání aktivity)
+* Kluby, ve který je uživatel na Strava.com přihlášen
+
+## Statistická data
+Aplikace ukládá tato statistická data:
+* Datum a čas přihlášení uživatele do aplikace
+* Typ zařízení a prohlížeče, ze kterého uživatel do aplikace přistupuje
