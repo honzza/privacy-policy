@@ -18,6 +18,6 @@ Statistická data ukládá aplikace během jejího používání a slouží výh
 * Datum a čas přihlášení uživatele do aplikace
 * Typ zařízení a prohlížeče, ze kterého uživatel do aplikace přistupuje
 
-##Kontaktní údaje a správa uložených údajů
+## Kontaktní údaje a správa uložených údajů
 Na žádost uživatele odeslané vývojáři budou všechna osobní data spojená s uživatelem odstraněna. Vývojáře aplikace je možné kontaktovat prostřednictvím odkazu v obchodě aplikací.
 Tyto zásady ochrany soukromí nabývají platnosti a účinnosti dne 16.07.2023.
