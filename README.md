@@ -1,3 +1,4 @@
+Aplikace pohyb pomáhá
 # Zásady ochrany soukromí
 * Aplikace pohyb pomáhá shromažďuje a ukládá data uvedená níže výhradně na serverech MongoDB, Inc.
 * Do zařízení jsou ukládána pouze data sloužící pro autentizaci a autorizaci uživatele.
