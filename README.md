@@ -1,4 +1,7 @@
 # Aplikace pohyb pomáhá
+
+## CZ
+
 ## Zásady ochrany soukromí
 * Aplikace pohyb pomáhá shromažďuje a ukládá data uvedená níže výhradně na serverech Google Ireland Limited umístěných ve Varšavě.
 * Do zařízení jsou ukládána pouze data sloužící pro autentizaci a autorizaci uživatele.
@@ -21,6 +24,9 @@ Statistická data ukládá aplikace během jejího používání a slouží výh
 ## Kontaktní údaje a správa uložených údajů
 Na žádost uživatele odeslané vývojáři budou všechna osobní data spojená s uživatelem odstraněna. Vývojáře aplikace je možné kontaktovat prostřednictvím odkazu v obchodě aplikací.
 Tyto zásady ochrany soukromí nabývají platnosti a účinnosti dne 16.07.2023.
+
+
+## EN
 
 ## Privacy Policy
 * The pohyb pomáhá application collects and stores the data listed below exclusively on Google Ireland Limited servers located in Warsaw.
